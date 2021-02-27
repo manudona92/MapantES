@@ -11,7 +11,7 @@ Para la generación del mapa se han utilizado tanto datos LIDAR (LAZ) como vecto
 
 ¿Por qué?
 
-A través del lenguaje que nos ofrece la cartografía podemos descubrir sitios, ir a la aventura e imaginarnos infinitos escenarios. Creemos que la cartografía de orientación es de las más precisas que existen en entornos rurales, detallando con precisión cortados o densidad de vegetación entre otros. La ambición de cubrir toda España en un solo mapa no sería posible sin la apertura al público los datos geográficos. Creemos que no solo puede ayudarnos a explorar más nuestro territorio, a fomentar la práctica de deportes al aire libre (carreras de orientación a pie, bicicleta, rogaine, senderismo) pero también como herramienta de ayuda para geógrafos y empleados de emergencias y rescate entre otros.  
+A través del lenguaje que nos ofrece la cartografía podemos descubrir sitios, ir a la aventura e imaginarnos infinitos escenarios. Creemos que la cartografía de orientación es de las más precisas que existen en entornos rurales, detallando con precisión cortados o densidad de vegetación entre otros. La ambición de cubrir toda España en un solo mapa no sería posible sin la apertura al público los datos geográficos. Creemos que puede ayudarnos a explorar más nuestro territorio, a fomentar la práctica de deportes al aire libre (carreras de orientación a pie, bicicleta, rogaine, senderismo) pero también como herramienta de ayuda para geógrafos y empleados de emergencias y rescate entre otros.  
 
 ¿Cómo ha sido posible?
 
@@ -30,12 +30,21 @@ Trabajaremos para que en un futuro sea operable con WMTS/ WMS
 
 Reporte de zonas erróneas
 
-Existe la posibilidad de encontrarse zonas con exceso de cortados, curvas de nivel defectuosas, vegetación mal definida, caminos omitidos, etc. Para cualquier incidencia grave podéis reportar el error a  mapantesp@gmail.com o en el apartado Issues de Github: https://github.com/manudona92/MapantESP/issues
+Existe la posibilidad de encontrarse zonas con exceso de cortados, curvas de nivel defectuosas, vegetación mal definida, caminos omitidos, etc. Para cualquier incidencia grave podéis reportar el error marcando el GID de la cuadrícula a  mapantesp@gmail.com o en el apartado Issues de Github: https://github.com/manudona92/MapantESP/issues
 
 Licencia
 
-Este proyecto no habría sido posible sin la utilización de datos geográficos (LIDAR y vectorial) del Instituto Geográfico Nacional que se encuentra bajo licencia CC-BY 4.0
-Los productos derivados del Mapant España, como los PNG y los archivos ZIP están bajo licencia CC-BY 4.0, lo que usted es libre de: 
+Este proyecto no habría sido posible sin la utilización de datos geográficos (LIDAR y vectorial) del Instituto Geográfico Nacional. Mapant España es obra derivada: 
+
+-	LiDAR-PNOA 2008-2015 CC-BY 4.0
+-	LiDAR-PNOA 2016-2018 CC-BY 4.0
+-	BTN25 2006-2019 CC-BY 4.0
+-	Open Street Map con licencia Open Data Commons Open Database License (ODbL) de la Fundación OpenStreetMap (OSMF)
+-	SIGPAC 
+
+
+Los productos derivados del Mapant España, tanto los PNG y los archivos ZIP están bajo licencia CC-BY 4.0, lo que usted es libre de: 
+
 -	Compartir — copiar y redistribuir el material en cualquier medio o formato
 -	Adaptar — remezclar, transformar y construir a partir del material para cualquier propósito, incluso comercialmente.
     Bajo los siguientes términos:
@@ -43,7 +52,9 @@ Los productos derivados del Mapant España, como los PNG y los archivos ZIP est�
 
 Para más información del proyecto: 
 
--	Grupo de Facebook:
--   Twitter: 
+-	Grupo de Facebook: https://www.facebook.com/groups/172483684646410
+-	Twitter: 
 -	Github: https://github.com/manudona92/MapantESP
+-	E-mail: mapantesp@gmail.com
+
 
