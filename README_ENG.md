@@ -1,4 +1,4 @@
-Intro
+<h3>Intro</h3>
 
 Mapant Spain was born from the idea of creating an orienteering map of Spain generated automatically. This Project has been inspired by the first Mapant produced in Finland back in 2016 (www.mapant.fi). 
 This project would not have been possible without the collaboration of Orienteering Spain (FEDO) and the Spanish Mapping Agency (IGN), which has provided LiDAR and vector data. Behind this project stands Agustin Caballero, Manu Jurado and Javier Arufe, who have been developing the workflow and the design of this project. 
