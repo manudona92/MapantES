@@ -24,7 +24,7 @@ Símbolos conformes a la normativa ISOM 2017 de orientación a pie. Debido a la 
 
 <h3>Visor</h3>
 
-El visor es posible visualizarlo a través de esta página (mapant.es) . En un futuro también en el visor cartográfico IBERPRIX del CNIG (https://www.ign.es/iberpix2/visor/)
+El visor es posible visualizarlo a través de esta página (https://mapant.es) . En un futuro también en el visor cartográfico IBERPRIX del CNIG (https://www.ign.es/iberpix2/visor/)
 Los archivos de descarga vienen en ETRS89 UTM 28, 29, 30 y 31 dependiendo la zona de España. 
 Trabajaremos para que en un futuro sea operable con WMTS/ WMS 
 
