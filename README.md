@@ -2,7 +2,7 @@
 
 <h3>Intro</h3>
 
-Mapant España nace con la idea de crear un mapa de orientación de toda España generado de forma automática. Este proyecto se ha inspirado en el primero Mapant que se generó en Finlandia en 2016 (www.mapant.fi). 
+Mapant España nace con la idea de crear un mapa de orientación de toda España generado de forma automática. Este proyecto se ha inspirado en el primer Mapant que se generó en Finlandia en 2016 (www.mapant.fi). 
 El proyecto cuenta con la colaboración de la Federación Española de Orientación (FEDO) y el Instituto Geográfico Español (IGN) que ha proporcionado los datos LiDAR y vectoriales. Además Mapant no habría sido posible sin el trabajo de Agustín Caballero, Manu Jurado y Javier Arufe quienes han desarrollado el flujo de trabajo y diseño de este proyecto. 
 
 <h3>Datos</h3>
@@ -20,7 +20,7 @@ Para el procesamiento de la nube de puntos se ha utilizado LAStools (herramienta
 
 <h3>Simbología</h3>
 
-Símbolos conformes a la normativa ISOM 2017 de orientación a pie. Debido a la generación 100% del mapa de forma automática, se han modificado algunos símbolos para que se adaptarán a la legibildad. 
+Símbolos conformes a la normativa ISOM 2017 de orientación a pie. Debido a la generación 100% del mapa de forma automática, se han modificado algunos símbolos para que se adapten a la legibildad. 
 
 <h3>Visor</h3>
 
