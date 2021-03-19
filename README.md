@@ -53,9 +53,9 @@ Los productos derivados del Mapant España, tanto los PNG y los archivos ZIP est
 
 Para más información del proyecto: 
 
--	Grupo de Facebook: https://www.facebook.com/groups/172483684646410
--	Twitter: https://twitter.com/EspMapant
--	Github: https://github.com/manudona92/MapantESP
+-	Grupo de Facebook: https://www.facebook.com/groups/mapantes
+-	Twitter: https://twitter.com/MapantEs
+-	Github: https://github.com/manudona92/MapantES
 -	E-mail: mapantesp@gmail.com
 
 
