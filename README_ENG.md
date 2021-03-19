@@ -50,7 +50,7 @@ All products derived from Mapant Spain, both PNG and ZIP files are under CC-BY 4
 
 For more information about the Mapant Spain project: 
 -	Facebook group: https://www.facebook.com/groups/172483684646410
--	Twitter: 
+-	Twitter: https://twitter.com/EspMapant
 -	Github: https://github.com/manudona92/MapantESP
 -	E-mail: mapantesp@gmail.com
 
