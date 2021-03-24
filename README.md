@@ -30,7 +30,7 @@ Trabajaremos para que en un futuro sea operable con WMTS/ WMS
 
 <h3>Reporte de zonas erróneas</h3>
 
-Existe la posibilidad de encontrarse zonas con exceso de cortados, curvas de nivel defectuosas, vegetación mal definida, caminos omitidos, etc. Para cualquier incidencia grave podéis preferiblemente notificar sobre el visor (click izquierdo en la zona > se abrirá una nueva ventana > Notificar Error) o bien mandando número GID y problema a mapantesp@gmail.com o en el apartado Issues de Github: https://github.com/manudona92/MapantESP/issues
+Existe la posibilidad de encontrarse zonas con exceso de cortados, curvas de nivel defectuosas, vegetación mal definida, caminos omitidos, etc. Para cualquier incidencia grave podéis preferiblemente notificar sobre el visor (click izquierdo en la zona > se abrirá una nueva ventana > Notificar Error>Grabar) o bien mandando número GID y problema a mapantesp@gmail.com o en el apartado Issues de Github: https://github.com/manudona92/MapantESP/issues
 
 <a href="#licencia"></a>
 <h3>Licencia</h3>
