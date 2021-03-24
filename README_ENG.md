@@ -14,7 +14,7 @@ We can discover new places and experience endless adventures through the communi
 <h3>How is it possible?</h3>
 
 We wanted to design a collaborative processing workflow, dividing the whole of Spain into 1x1 km tiles and then each user/volunteer could process as many tiles as his/her PC can handle. To get an idea, for an average PC it would take approximately 14 years to process the whole territory of Spain (505.000 km2) 
-For point cloud data pre-processing, LAStools from Martin Isengburg (las2las and las2txt tools, under LGPL 2.1 license) has been used. For the generation of contours, cliffs and vegetation map we have used Karttapullautin from Jarkko Ryppo (free software for non-commercial or for navigation sport purposes). 
+For point cloud data pre-processing, LAStools from Martin Isenburg (las2las and las2txt tools, under LGPL 2.1 license) has been used. For the generation of contours, cliffs and vegetation map we have used Karttapullautin from Jarkko Ryppo (free software for non-commercial or for navigation sport purposes). 
 
 <h3>Symbology</h3>
 
