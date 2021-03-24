@@ -28,7 +28,7 @@ In a mid-term future we will work on WMTS/WMS product.
 
 <h3>Report corrupted tiles</h3>
 
-You may see tiles with too many cliffs, contours that have not been placed in the right place, omission of tracks and paths or vegetation density wrongly classified. The user can report these corrupted tiles by either writing us an email to mapantesp@gmail.com or at Github > Issues (https://github.com/manudona92/MapantESP/issues) pointing the tile GID.
+You may see tiles with too many cliffs, contours that have not been placed in the right place, omission of tracks and paths or vegetation density wrongly classified. The user can report these corrupted tiles preferibly through the viewer (left click on the wrong area > new window pops up > Notificar error > Grabar) or also report us via email to mapantesp@gmail.com or at Github > Issues (https://github.com/manudona92/MapantESP/issues) pointing the tile GID.
 
 <h3>License</h3>
 
