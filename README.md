@@ -61,11 +61,11 @@ Para más información del proyecto:
 <h3>Agradecimientos</h3>
 
 Nos gustaría agradecer especialmente a estas personas y entidades por su colaboración en este proyecto:
-- Jarkko Ryyppo, autor de Karttapullautin
-- Federación Española de Orientación https://www.fedo.org/
-- IGN/CNIG http://www.ign.es/web/ign/portal
-- Juan José Montijano Garzón
-- Kumi Systems https://kumi.systems/
+-   Jarkko Ryyppo, autor de Karttapullautin
+-   Federación Española de Orientación https://www.fedo.org/
+-   IGN/CNIG http://www.ign.es/web/ign/portal
+-   Juan José Montijano Garzón
+-   Kumi Systems https://kumi.systems/
 
 <h3>Librerías</h3>
 Para la realización de este proyecto se han usado las siguientes librerías y herramientas gratuitas; muchas gracias a los autores de todas ellas:
