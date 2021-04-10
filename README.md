@@ -70,7 +70,7 @@ Nos gustaría agradecer especialmente a estas personas y entidades por su colabo
 <h3>Librerías</h3>
 Para la realización de este proyecto se han usado las siguientes librerías y herramientas gratuitas; muchas gracias a los autores de todas ellas:
 -   Karttapullautin http://www.routegadget.net/karttapullautin/
--   Microsoft Visual Studio https://visualstudio.microsoft.com/es/
+*   Microsoft Visual Studio https://visualstudio.microsoft.com/es/
 -   Ubuntu https://ubuntu.com/
 -   PostgreSQL https://www.postgresql.org/
 -   PostGIS https://postgis.net/
