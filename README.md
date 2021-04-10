@@ -69,20 +69,20 @@ Nos gustaría agradecer especialmente a estas personas y entidades por su colabo
 
 <h3>Librerías</h3>
 Para la realización de este proyecto se han usado las siguientes librerías y herramientas gratuitas; muchas gracias a los autores de todas ellas:
-- Karttapullautin http://www.routegadget.net/karttapullautin/
-- Microsoft Visual Studio https://visualstudio.microsoft.com/es/
-- Ubuntu https://ubuntu.com/
-- PostgreSQL https://www.postgresql.org/
-- PostGIS https://postgis.net/
-- GDAL https://gdal.org/
-- LasTools https://rapidlasso.com/lastools/
-- BitMiracle LibTiff https://bitmiracle.com/libtiff/
-- DotNetZip https://github.com/haf/DotNetZip.Semverd
-- DotSpatial https://github.com/DotSpatial/DotSpatial
-- ImageResizer http://imageresizing.net/
-- GeoAPI https://github.com/NetTopologySuite/GeoAPI
-- IxMilia DXF https://github.com/ixmilia/dxf
-- Magick.NET https://github.com/dlemstra/Magick.NET
-- NewtonSoft JSON.NET https://www.newtonsoft.com/json
-- ProjNet (for GeoAPI) https://github.com/NetTopologySuite/ProjNet4GeoAPI
-- SharpZipLib https://github.com/icsharpcode/SharpZipLib
+-   Karttapullautin http://www.routegadget.net/karttapullautin/
+-   Microsoft Visual Studio https://visualstudio.microsoft.com/es/
+-   Ubuntu https://ubuntu.com/
+-   PostgreSQL https://www.postgresql.org/
+-   PostGIS https://postgis.net/
+-   GDAL https://gdal.org/
+-   LasTools https://rapidlasso.com/lastools/
+-   BitMiracle LibTiff https://bitmiracle.com/libtiff/
+-   DotNetZip https://github.com/haf/DotNetZip.Semverd
+-   DotSpatial https://github.com/DotSpatial/DotSpatial
+-   ImageResizer http://imageresizing.net/
+-   GeoAPI https://github.com/NetTopologySuite/GeoAPI
+-   IxMilia DXF https://github.com/ixmilia/dxf
+-   Magick.NET https://github.com/dlemstra/Magick.NET
+-   NewtonSoft JSON.NET https://www.newtonsoft.com/json
+-   ProjNet (for GeoAPI) https://github.com/NetTopologySuite/ProjNet4GeoAPI
+-   SharpZipLib https://github.com/icsharpcode/SharpZipLib
