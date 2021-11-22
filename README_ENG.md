@@ -56,28 +56,28 @@ For more information about the Mapant Spain project:
 
 <h3>Acknowledgement:</h3>
 
-Jarkko Ryyppo, autor of Karttapullautin
-Spanish Orienteering Federation https://www.fedo.org/
-IGN/CNIG http://www.ign.es/web/ign/portal
-Juan José Montijano Garzón
-Kumi Systems https://kumi.systems/
+-   Jarkko Ryyppo, autor of Karttapullautin
+-   Spanish Orienteering Federation https://www.fedo.org/
+-   IGN/CNIG http://www.ign.es/web/ign/portal
+-   Juan José Montijano Garzón
+-   Kumi Systems https://kumi.systems/
 
 <h3>Libraries:</h3>
 
-Karttapullautin http://www.routegadget.net/karttapullautin/
-Microsoft Visual Studio https://visualstudio.microsoft.com/es/
-Ubuntu https://ubuntu.com/
-PostgreSQL https://www.postgresql.org/
-PostGIS https://postgis.net/
-GDAL https://gdal.org/
-LasTools https://rapidlasso.com/lastools/
-BitMiracle LibTiff https://bitmiracle.com/libtiff/
-DotNetZip https://github.com/haf/DotNetZip.Semverd
-DotSpatial https://github.com/DotSpatial/DotSpatial
-ImageResizer http://imageresizing.net/
-GeoAPI https://github.com/NetTopologySuite/GeoAPI
-IxMilia DXF https://github.com/ixmilia/dxf
-Magick.NET https://github.com/dlemstra/Magick.NET
-NewtonSoft JSON.NET https://www.newtonsoft.com/json
-ProjNet (for GeoAPI) https://github.com/NetTopologySuite/ProjNet4GeoAPI
-SharpZipLib https://github.com/icsharpcode/SharpZipLib
+-   Karttapullautin http://www.routegadget.net/karttapullautin/
+-   Microsoft Visual Studio https://visualstudio.microsoft.com/es/
+-   Ubuntu https://ubuntu.com/
+-   PostgreSQL https://www.postgresql.org/
+-   PostGIS https://postgis.net/
+-   GDAL https://gdal.org/
+-   LasTools https://rapidlasso.com/lastools/
+-   BitMiracle LibTiff https://bitmiracle.com/libtiff/
+-   DotNetZip https://github.com/haf/DotNetZip.Semverd
+-   DotSpatial https://github.com/DotSpatial/DotSpatial
+-   ImageResizer http://imageresizing.net/
+-   GeoAPI https://github.com/NetTopologySuite/GeoAPI
+-   IxMilia DXF https://github.com/ixmilia/dxf
+-   Magick.NET https://github.com/dlemstra/Magick.NET
+-   NewtonSoft JSON.NET https://www.newtonsoft.com/json
+-   ProjNet (for GeoAPI) https://github.com/NetTopologySuite/ProjNet4GeoAPI
+-   SharpZipLib https://github.com/icsharpcode/SharpZipLib
