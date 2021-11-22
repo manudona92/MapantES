@@ -54,7 +54,7 @@ For more information about the Mapant Spain project:
 -	Github: https://github.com/manudona92/MapantES
 -	E-mail: mapantesp@gmail.com
 
-<h3>Acknowledgement:</h3>
+<h3>Acknowledgements:</h3>
 
 -   Jarkko Ryyppo, autor of Karttapullautin
 -   Spanish Orienteering Federation https://www.fedo.org/
