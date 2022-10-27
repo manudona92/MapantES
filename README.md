@@ -7,7 +7,7 @@ El proyecto cuenta con la colaboración de la Federación Española de Orientaci
 
 <h3>Datos</h3>
 
-Para la generación del mapa se han utilizado tanto datos LIDAR (LAZ) como vectoriales. Los datos LIDAR provienen del plan PNOA – LIDAR del IGN, y se han utilizado datos de la 1º y 2º cobertura (densidades de 0.5 a 4 puntos/m2, 2009-2017). Los datos vectoriales provienen mayoritariamente de la BTN25 del IGN, SIGPAC y Open Street Map (OSM). 
+Para la generación del mapa se han utilizado tanto datos LIDAR (LAZ) como vectoriales. Los datos LIDAR provienen del plan PNOA – LIDAR del IGN, y se han utilizado datos de la 1º y 2º cobertura (densidades de 0.5 a 4 puntos/m2, 2009-2017). Los datos vectoriales provienen mayoritariamente de la BTN25 del IGN, SIGPAC y OpenStreetMap (OSM). 
 
 <h3>¿Por qué?</h3>
 
@@ -40,7 +40,7 @@ Este proyecto no habría sido posible sin la utilización de datos geográficos 
 -	LiDAR-PNOA 2008-2015 CC-BY 4.0
 -	LiDAR-PNOA 2016-2018 CC-BY 4.0
 -	BTN25 2006-2019 CC-BY 4.0
--	Open Street Map con licencia Open Data Commons Open Database License (ODbL) de la Fundación OpenStreetMap (OSMF)
+-	OpenStreetMap con licencia Open Data Commons Open Database License (ODbL) de la Fundación OpenStreetMap (OSMF)
 -	SIGPAC 
 
 
