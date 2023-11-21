@@ -61,10 +61,12 @@ For more information about the Mapant Spain project:
 -   IGN/CNIG http://www.ign.es/web/ign/portal
 -   Juan José Montijano Garzón
 -   Kumi Systems https://kumi.systems/
+-   Raphaël Stefanini, developer of Rusty-Pullauta
 
 <h3>Libraries:</h3>
 
 -   Karttapullautin http://www.routegadget.net/karttapullautin/
+-   Rusty-Pullauta https://github.com/rphlo/rusty-pullauta
 -   Microsoft Visual Studio https://visualstudio.microsoft.com/es/
 -   Ubuntu https://ubuntu.com/
 -   PostgreSQL https://www.postgresql.org/
