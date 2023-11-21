@@ -66,12 +66,14 @@ Nos gustaría agradecer especialmente a estas personas y entidades por su colabo
 -   IGN/CNIG http://www.ign.es/web/ign/portal
 -   Juan José Montijano Garzón
 -   Kumi Systems https://kumi.systems/
+-   Raphaël Stefanini, desarrollador de Rusty Pullauta
 
 <h3>Librerías</h3>
 
 Para la realización de este proyecto se han usado las siguientes librerías y herramientas gratuitas; muchas gracias a los autores de todas ellas:
 
 -   Karttapullautin http://www.routegadget.net/karttapullautin/
+-   Rusty-Pullauta https://github.com/rphlo/rusty-pullauta
 -   Microsoft Visual Studio https://visualstudio.microsoft.com/es/
 -   Ubuntu https://ubuntu.com/
 -   PostgreSQL https://www.postgresql.org/
